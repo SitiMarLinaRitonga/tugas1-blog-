@@ -1,0 +1,1 @@
+Copyright Siti Marlina Ritonga

@@ -1,0 +1,19 @@
+{
+    "name": "user/dbuts-sitimarlina2",
+    "description": "Program Uts Pemrograman Berbasis Web Lanjutan Prodi Sistem Informasi UIN Sumatera Utara Medan",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "Siti Marlina Ritonga",
+            "email": "linaritonga600@gmail.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : {
+            "App\\" : "app/"
+        }
+    }
+}
